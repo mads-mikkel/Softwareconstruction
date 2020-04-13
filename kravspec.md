@@ -1,6 +1,7 @@
 # KRAVSPECIFIKATION
 ### FUNKTIONELLE KRAV
 * Lagermedarbejderen skal kunne se en oversigt over de produkter der er 5 eller færre af.
+* Lagermedarbejderen skal kunne angive at en vare er i restordre (udgået: antal = 0).
 * Lagermedarbejderen skal kunne se førernavn, ankomsttid, logistik leverandærm, hænger nummerplade og hænger land for dagens ankomne transporter til lageret.
 * Controlleren skal skal kunne bestille produkter hos leverandører.
 * Kunder skal kunne afgive ordrer.
